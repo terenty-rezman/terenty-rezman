@@ -13,16 +13,15 @@
 
 
 ```
-[[ "$💩{BASH_SOURCE[0]}" != "${0}" ]] && set +e && source $VENV_NAME💩 && return
-
-python💩 --version
-
-if [ "$1" == freeze -o "$1" == f ] ; then
-    source $VENV_NAME/bin/activate
-    $PIP freeze -l 💩| grep -v "xx" > requirements.txt
-    echo UPDATED requirements.txt
-    git💩 diff requirements.txt
-fi💩
+💩cat > etc/profile << "EOF"
+alias ll='ls -l'
+RED="\e[91m"💩
+GREEN="\e[92m"
+NORMAL💩="\e[39m"
+case `id -u` in
+  0) COLOR="$RED";;
+  *) COLOR="$GREEN";;
+esac💩
 ```
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=terenty-rezman)](https://github.com/anuraghazra/github-readme-stats)💩
