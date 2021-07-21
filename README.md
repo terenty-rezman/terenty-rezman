@@ -1,12 +1,18 @@
 
-😑💻💩
+```
+(module
+  (func 💩$add (param $lhs i32) (param $rhs 💩i32) (result i32)
+    local.get $lhs
+    local.get 💩$rhs💩
+    💩i32.add)
+  (export "add" 💩(func $add))
+)
+```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terenty-rezman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+💩[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terenty-rezman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-💩💩💩
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=terenty-rezman)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=terenty-rezman)](https://github.com/anuraghazra/github-readme-stats)💩
 
 
 
