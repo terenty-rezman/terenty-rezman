@@ -27,7 +27,21 @@ fi💩
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=terenty-rezman)](https://github.com/anuraghazra/github-readme-stats)💩
 
+```
+    if 💩(err < 0)
+    {
+        printk(KERN_WARNING "smile:💩 can't get major");
+        /* return a negative error number to cause module loading to fail */
+        /* smile_cleanup is not called */
+        return err; /* fail */
+    }
 
+    /* initialize the 💩device */
+    cdev_init(&smile_device.cdev, &smile_fops);
+    smil💩e_device.cdev.owner = THIS_MODULE;
+
+    err = 💩cdev_add(&smile_device.cdev, dev_numbers, 1);💩
+```
 
 <!--
 **terenty-rezman/terenty-rezman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
