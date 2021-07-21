@@ -1,7 +1,7 @@
 ### He11o !
 I am a softw4re engin33r w1th a bit of expi3r3nce 4nd b4ckgr0und !
 
-H3r3s a sample of my `webassebly` code:
+H3r3s a sample of my `webassembly` code:
 
 ```
 (module
