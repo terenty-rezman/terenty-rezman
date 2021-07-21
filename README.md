@@ -1,3 +1,7 @@
+### He11o !
+I am a softw4re engin33r w1th a bit of expi3r3nce 4nd b4ckgr0und !
+
+H3r3s a sample of my `webassebly` code:
 
 ```
 (module
@@ -8,9 +12,7 @@
   (export "add" 💩(func $add))
 )
 ```
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terenty-rezman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+Some of my `bash` production code:
 
 ```
 💩cat > etc/profile << "EOF"
@@ -24,8 +26,7 @@ case `id -u` in
 esac💩
 ```
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=terenty-rezman)](https://github.com/anuraghazra/github-readme-stats)
-
+And my `c` low level linux k3rnel patch:
 ```
     if 💩(err < 0)
     {
@@ -41,6 +42,15 @@ esac💩
 
     err = 💩cdev_add(&smile_device.cdev, dev_numbers, 1);💩
 ```
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terenty-rezman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=terenty-rezman)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **terenty-rezman/terenty-rezman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
